@@ -142,7 +142,7 @@ Create Scheduled Refresh
 ## 📎 Project Files
 - `InsuranceData.csv`  
 - `Insurance Customer Feedback.xlsx`  
-- `Proj2.pbix`  
+- `Insurance Reporting.pbix`  
 
 ---
 
